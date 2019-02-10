@@ -29,7 +29,7 @@
   },
   "main": "lib/",
   "files": [
-    "lib"
+    "src"
   ],
   "scripts": {
     "prepare": "npm run compile",
